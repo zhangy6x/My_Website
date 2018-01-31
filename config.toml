@@ -50,7 +50,7 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Yuxuan Zhang"
+  name = "Yuxuan (Shawn) Zhang"
   role = "Postdoctoral Reseach Associate"
 
   # Organizations/Affiliations.
@@ -60,9 +60,9 @@ defaultContentLanguageInSubdir = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "zhangy6@ornl.gov"
-  address = "1 Bathel Valley Road"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "865-"
+  address = "PO BOX 2008 MS6455 OAK RIDGE TN 37831-6455"
+  #office_hours = "Monday 10:00 to 13:00 or email for appointment"
+  phone = "865-241-6133"
   #skype = "echo123"
   telegram = ""
 
@@ -115,7 +115,7 @@ defaultContentLanguageInSubdir = false
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
-  math = true
+  math = false
 
   # Highlight.js options
   #   highlight

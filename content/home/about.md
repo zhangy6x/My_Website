@@ -18,7 +18,7 @@ weight = 5
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "Ph.D. in Metallurgical Engineering"
-  institution = "University of Utah"
+  institution = "The University of Utah"
   year = 2017
 
 [[education.courses]]
