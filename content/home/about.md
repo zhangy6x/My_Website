@@ -10,19 +10,19 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Li-ion Battery",
-    "Neutron Radiography",
-    "Advanced Fuel"
+    "Li-ion battery",
+    "Neutron radiography",
+    "Advanced fuel"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Metallurgical Engineering"
+  course = "Ph.D. in Metallurgical Engineering"
   institution = "University of Utah"
   year = 2017
 
 [[education.courses]]
-  course = "BEng in Metallic Material Engineering"
+  course = "B.Eng. in Metallic Material Engineering"
   institution = "Hunan University of Technology"
   year = 2012
  
