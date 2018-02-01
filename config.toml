@@ -6,7 +6,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Academic"
+title = "Yuxuan Zhang"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -60,9 +60,9 @@ defaultContentLanguageInSubdir = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "zhangy6@ornl.gov"
-  address = "PO BOX 2008 MS6455 OAK RIDGE TN 37831-6455"
+  address = "1 Bethel Valley Road MS6455 Oak Ridge TN 37830-6455"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "865-241-6133"
+  phone = "+1(865)241-6133"
   #skype = "echo123"
   telegram = ""
 
