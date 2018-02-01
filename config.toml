@@ -60,7 +60,7 @@ defaultContentLanguageInSubdir = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "zhangy6@ornl.gov"
-  address = "1 Bethel Valley Road MS6455 Oak Ridge TN 37830-6455"
+  address = "1 Bethel Valley Road\nOak Ridge TN 37830-6455"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   phone = "+1(865)241-6133"
   #skype = "echo123"
@@ -249,6 +249,10 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "//github.com/zhangy6x"
 
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//www.linkedin.com/in/yuxuan-zhang-94042376/"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
