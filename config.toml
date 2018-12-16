@@ -64,7 +64,7 @@ enableGitInfo = false
   # Details for the Contact Widget
   email = "zhangy6@ornl.gov"
   address = "Oak Ridge National Laboratory\n1 Bethel Valley Road\nOak Ridge TN 37830-6455"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
+  # office_hours = "Monday 8:30 to 13:00 or email for appointment"
   phone = "+1(865)241-6133"
   # skype = "echo123"
   telegram = ""
