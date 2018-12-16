@@ -30,4 +30,4 @@ weight = 5
 
 # Biography
 
-Yuxuan Zhang is a postdoc at Oak Ridge National Lab. His research interests include neutron radiography, energy storage material.
+Yuxuan Zhang is a postdoc at Oak Ridge National Lab. His research interests include neutron imaging and energy materials.
