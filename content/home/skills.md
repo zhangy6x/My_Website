@@ -29,20 +29,32 @@ weight = 7
 
 [[feature]]
   icon = "python"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Python"
   description = "70%"
   
 [[feature]]
   icon = "battery-bolt"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Battery"
   description = "70%"
 
 [[feature]]
   icon = "microscope"
   icon_pack = "fas"
-  name = "Material characterization"
+  name = "Microscopy"
   description = "70%"
+
+[[feature]]
+  icon = "flask"
+  icon_pack = "fas"
+  name = "Electrochemistry"
+  description = "70%"
+
+[[feature]]
+  icon = "desktop"
+  icon_pack = "fas"
+  name = "Modeling"
+  description = "50%"
 
 +++
