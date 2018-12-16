@@ -36,7 +36,7 @@ weight = 7
 [[feature]]
   icon = "battery-bolt"
   icon_pack = "fab"
-  name = "Battery"
+  name = "Li-ion battery"
   description = "70%"
 
 [[feature]]
