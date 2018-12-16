@@ -34,7 +34,7 @@ weight = 7
   description = "70%"
   
 [[feature]]
-  icon = "car-battery"
+  icon = "battery-three-quarters"
   icon_pack = "fab"
   name = "Li-ion battery"
   description = "70%"

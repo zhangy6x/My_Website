@@ -1,5 +1,5 @@
 +++
-title = "The nature of electrochemical delithiation of Li-Mg alloy electrodes: neutron computed tomography and analytical modeling of Li diffusion and delithiation phenomenon"
+title = "The Nature of Electrochemical Delithiation of Li-Mg Alloy Electrodes: Neutron Computed Tomography and Analytical Modeling of Li Diffusion and Delithiation Phenomenon"
 date = 2017-01-01
 draft = false
 
