@@ -35,7 +35,7 @@ weight = 7
   
 [[feature]]
   icon = "battery-three-quarters"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Li-ion battery"
   description = "70%"
 
