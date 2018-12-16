@@ -34,7 +34,7 @@ date_format = "January 2006"
   """
 
 [[experience]]
-  title = "Research Assistant"
+  title = "Graduate Research Assistant"
   company = "University of Utah"
   company_url = "https://www.metallurgy.utah.edu/"
   location = "Utah"
