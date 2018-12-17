@@ -22,7 +22,7 @@ publication = "The Journal of Open Source Software"
 publication_short = "JOSS"
 
 # Abstract and optional shortened version.
-abstract = "ImagingReso is an open-source Python library that simulates the neutron resonance signal for neutron imaging measurements. By defining the sample information such as density, thickness in the neutron path, and isotopic ratios of the elemental composition of the material, this package plots the expected resonance peaks for a selected neutron energy range. Various sample types such as layers of single elements (Ag, Co, etc. in solid form), chemical compounds (UO2, Gd2O3, etc.), or even multiple layers of both types can be plotted with this package. Major plotting features include display of the transmission/attenuation in wavelength, energy, and time scale, and show/hide elemental and isotopic contributions in the total resonance signal."
+abstract = ""
 abstract_short = ""
 
 # Featured image thumbnail (optional)

@@ -22,7 +22,7 @@ publication = "Journal of The Electrochemical Society"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Li-Mg alloys are promising as positive electrodes (anodes) for Li-ion batteries due to the high Li storage capacity and the relatively lower volume change during the lithiation/delithiation process. They also present a unique opportunity to image the Li distribution through the electrode thickness at various delithiation states. In this work, spatial distributions of Li in electrochemically delithiated Li-Mg alloy electrodes have been quantitatively determined using neutron tomography. Specifically, the Li concentration profiles along thickness direction are determined. A rigorous analytical model to quantify the diffusion-controlled delithiation, accompanied by phase transition and boundary movement, has also been developed to explain the delithiation mechanism. The analytical modeling scheme successfully predicted the Li concentration profiles which agreed well with the experimental data. It is demonstrated that during discharge Li is removed by diffusion through the solid solution Li-Mg phases and this proceeds with β→α phase transition and the associated phase boundary movement through the thickness of the electrode. This is also accompanied by electrode thinning due to the change in molar volume during delithiation. Following the approaches developed here, one can develop a rigorous and quantitative understanding of electrochemical delithiation in electrodes of electrochemical cells, similar to that in the present Li-Mg electrodes."
+abstract = ""
 abstract_short = ""
 
 # Featured image thumbnail (optional)
