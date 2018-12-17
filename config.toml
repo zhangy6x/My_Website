@@ -271,10 +271,10 @@ enableGitInfo = false
     icon_pack = "ai"
     link = "//www.mendeley.com/profiles/yuxuan-zhang10/"
 
-#  [[params.social]]
-#   icon = "orcid"
-#    icon_pack = "ai"
-#    link = "//orcid.org/0000-0002-0083-1408"
+  [[params.social]]
+    icon = "orcid"
+    icon_pack = "ai"
+    link = "//orcid.org/0000-0002-0083-1408"
 
   [[params.social]]
     icon = "google-scholar"

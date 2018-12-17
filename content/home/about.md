@@ -17,12 +17,12 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "Ph.D. in Metallurgical Engineering"
+  course = "Ph.D. in Metallurgical Eng."
   institution = "The University of Utah"
   year = 2017
 
 [[education.courses]]
-  course = "B.Eng. in Metallic Material Engineering"
+  course = "B.E. in Metallic Material Eng."
   institution = "Hunan University of Technology"
   year = 2012
  
