@@ -22,7 +22,7 @@ publication = "Journal of Power Sources"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "An understanding of Lithium (Li) spatial distribution within the electrodes of a Li-ion cell, during charge and discharge cycles, is essential to optimize the electrode parameters for increased performance under cycling. In this work, it is demonstrated that the spatial distribution of Li within Vanadium Pentoxide (V2O5) electrodes of a small coin cell can be imaged by neutron computed tomography. The neutron attenuation data has been used to construct the three-dimensional Li spatial images. Specifically, it is shown that there is sufficient neutron imaging contrast between lithiated and delithiated regions of V2O5 electrode making it possible to map Li distributions even in small electrodes with thicknesses <1 mm. The images reveal that the Li spatial distribution is inhomogeneous and a relatively higher C-rate leads to more non-uniform Li distribution after Li insertion. The non-uniform distribution suggests the limitation of Li diffusion within the electrode during the lithiation process under the relatively high cycling rates."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
