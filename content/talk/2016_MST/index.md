@@ -1,12 +1,12 @@
 +++
-title = "MST_2016"
-date = 2018-12-17T22:50:01-05:00  # Schedule page publish date.
+title = "Investigation of Li Spatial Distribution inside Bulk Li-Mg Alloy Electrode after Delithiation Using Neutron Imaging"
+date = 2016-10-23T22:50:01-05:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2018-12-17T22:50:01-05:00
-time_end = 2018-12-17T22:50:01-05:00
+time_start = 2016-10-23T10:50:01-05:00
+time_end = 2016-10-23T11:10:01-05:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = []
@@ -16,11 +16,11 @@ abstract = ""
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = ""
+event = "Materials Science & Technology 2016"
 event_url = ""
 
 # Location of event.
-location = ""
+location = "Salt Lake City, UT"
 
 # Is this a selected talk? (true/false)
 selected = false
@@ -31,7 +31,7 @@ selected = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects = ["Li_battery_PhD"]
 
 # Slides (optional).
 #   Associate this page with Markdown slides.

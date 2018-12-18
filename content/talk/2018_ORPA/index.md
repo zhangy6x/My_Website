@@ -1,12 +1,12 @@
 +++
-title = "ORPA_2018"
+title = "Energy Selective Neutron Imaging Using Epithermal Neutron Imaging at Spallation Neutrons Source"
 date = 2018-12-17T22:50:51-05:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2018-12-17T22:50:51-05:00
-time_end = 2018-12-17T22:50:51-05:00
+time_start = 2018-08-07T10:30:51-05:00
+time_end = 2018-08-07T10:50:51-05:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = []
@@ -16,11 +16,11 @@ abstract = ""
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = ""
+event = "ORPA Research Symposium 2018"
 event_url = ""
 
 # Location of event.
-location = ""
+location = "Oak Ridge, TN"
 
 # Is this a selected talk? (true/false)
 selected = false
@@ -31,7 +31,7 @@ selected = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects = ["TOF_imaging"]
 
 # Slides (optional).
 #   Associate this page with Markdown slides.

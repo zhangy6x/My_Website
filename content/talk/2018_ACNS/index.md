@@ -1,12 +1,12 @@
 +++
-title = "ACNS_2018"
-date = 2018-12-17T22:50:36-05:00  # Schedule page publish date.
+title = "Three-Dimensional Mapping of Gadolinium and Uranium in TRISO Nuclear Fuel Kernels Using Epithermal Neutron Imaging"
+date = 2018-06-28T22:50:36-05:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2018-12-17T22:50:36-05:00
-time_end = 2018-12-17T22:50:36-05:00
+time_start = 2018-06-28T10:45:00-05:00
+time_end = 2018-06-28T11:00:00-05:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = []
@@ -16,11 +16,11 @@ abstract = ""
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = ""
+event = "American Conference on Neutron Scattering 2018"
 event_url = ""
 
 # Location of event.
-location = ""
+location = "College Park, MD"
 
 # Is this a selected talk? (true/false)
 selected = false
@@ -31,7 +31,7 @@ selected = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects = ["TOF_imaging"]
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
