@@ -19,7 +19,7 @@ authors = ["Yuxuan Zhang", "K.S. Ravi Chandran", "Madhu Jagannathan", "Hassina Z
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Journal of The Electrochemical Society"
+publication = "*Journal of The Electrochemical Society*"
 publication_short = ""
 
 # Abstract and optional shortened version.
