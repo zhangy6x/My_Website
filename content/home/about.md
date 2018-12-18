@@ -10,9 +10,9 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Li-ion battery",
-    "Neutron radiography",
-    "Advanced fuel"
+    "Neutron imaging",
+    "Li-ion batteries",
+    "Fuel characterizations"
   ]
 
 # List your qualifications (such as academic degrees).

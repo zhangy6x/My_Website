@@ -2,6 +2,7 @@
 title = "ImagingReso: A Tool for Neutron Resonance Imaging"
 date = 2017-11-17
 draft = false
+doi = "10.21105/joss.00407"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Yuxuan Zhang", "Jean C. Bilheux"]
@@ -18,8 +19,8 @@ authors = ["Yuxuan Zhang", "Jean C. Bilheux"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "The Journal of Open Source Software"
-publication_short = "JOSS"
+publication = "*The Journal of Open Source Software*"
+publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -35,14 +36,14 @@ selected = true
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects = []
+projects = ["TOF_imaging"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = []
 
 # Links (optional).
-url_pdf = "http://dx.doi.org/10.21105/joss.00407"
+url_pdf = ""
 url_preprint = ""
 url_code = "https://github.com/ornlneutronimaging/ImagingReso"
 url_dataset = ""
@@ -50,7 +51,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://isc.sns.gov/"
+url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

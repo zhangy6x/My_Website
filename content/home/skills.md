@@ -28,15 +28,15 @@ weight = 7
   description = "80%"
 
 [[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Python"
-  description = "70%"
-  
-[[feature]]
   icon = "battery-three-quarters"
   icon_pack = "fas"
   name = "Li-ion battery"
+  description = "80%"
+
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
   description = "70%"
 
 [[feature]]
@@ -54,7 +54,7 @@ weight = 7
 [[feature]]
   icon = "desktop"
   icon_pack = "fas"
-  name = "Modeling"
+  name = "Kinetic Modeling"
   description = "50%"
 
 +++

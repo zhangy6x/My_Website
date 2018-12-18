@@ -1,10 +1,10 @@
 +++
-title = "The Nature of Electrochemical Delithiation of Li-Mg Alloy Electrodes: Neutron Computed Tomography and Analytical Modeling of Li Diffusion and Delithiation Phenomenon"
-date = 2017-01-01
+title = "Study of Li-Mg alloy and Si powder anodes for Li-ion batteries: Experiments, neutron imaging and modeling"
+date = 2016-12-31
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Yuxuan Zhang", "K.S. Ravi Chandran", "Madhu Jagannathan", "Hassina Z. Bilheux", "Jean C. Bilheux"]
+authors = ["Yuxuan Zhang"]
 
 # Publication type.
 # Legend:
@@ -15,10 +15,10 @@ authors = ["Yuxuan Zhang", "K.S. Ravi Chandran", "Madhu Jagannathan", "Hassina Z
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["2"]
+publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
-publication = "Journal of The Electrochemical Society"
+publication = "The University of Utah"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -29,13 +29,13 @@ abstract_short = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects = []
+projects = ["Li_battery_PhD"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -50,7 +50,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "http://dx.doi.org/10.1149/2.0051702jes"
+url_source = "https://search.proquest.com/openview/4a6d1f7f94b94fc5b7c12d803b5c5f0b/1?pq-origsite=gscholar&cbl=18750&diss=y"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

@@ -2,6 +2,7 @@
 title = "Imaging of the Li Spatial Distribution within V2O5 Cathode in A Coin Cell by Neutron Computed Tomography"
 date = 2018-01-31
 draft = false
+doi = "10.1016/j.jpowsour.2017.11.080"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Yuxuan Zhang", "K.S. Ravi Chandran", "Hassina Z. Bilheux"]
@@ -18,7 +19,7 @@ authors = ["Yuxuan Zhang", "K.S. Ravi Chandran", "Hassina Z. Bilheux"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Journal of Power Sources"
+publication = "*Journal of Power Sources*"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -35,7 +36,7 @@ selected = true
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects = []
+projects = ["Li_battery_PhD"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -50,7 +51,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://doi.org/10.1016/j.jpowsour.2017.11.080"
+url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
