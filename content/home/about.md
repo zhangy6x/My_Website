@@ -19,7 +19,7 @@ weight = 5
 [[education.courses]]
   course = "Ph.D. in Metallurgical Eng."
   institution = "The University of Utah"
-  year = 2017
+  year = 2016
 
 [[education.courses]]
   course = "B.E. in Metallic Material Eng."
